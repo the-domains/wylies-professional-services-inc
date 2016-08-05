@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wylie's Professional Services, Inc.]]></title>
+        <description><![CDATA[Wylie's Professional Services, Inc.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Aug 2016 23:54:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere]]></title>
+            <description><![CDATA[<article><h1>A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere</h1><p>Researchers scanning the skies just got a big surprise. They spotted a humongous galaxy orbiting our own, where none had been seen before. It appeared, seemingly, out of nowhere. So, just how did the newly-discovered Crater 2 manage to pull off this feat, like a deer leaping from the interstellar bushes to stare us down through our collective headlights?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b53f341e9bfa1b291542ff36d386f62/noop.jpg?input=http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--KJc-Uo0o--%2Fc_scale%2Cfl_progressive%2Cq_80%2Cw_800%2Fssbcmy6vcoq8ggiiinid.jpg"></article>]]></description>
+            <link>http://gizmodo.com/a-giant-galaxy-orbiting-our-own-just-appeared-out-of-no-1771257641</link>
+            <guid isPermaLink="false">8a794ebb-f446-4645-b21b-d176e61f332f</guid>
+            <pubDate>Fri, 05 Aug 2016 23:54:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
